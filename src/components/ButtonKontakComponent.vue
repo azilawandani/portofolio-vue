@@ -7,7 +7,7 @@ export default {
   name: 'ButtonKontakComponent',
   methods: {
     handleButtonClick() {
-      // Logika untuk menangani klik tombol kontak
+    
       console.log('Tombol Kontak ditekan!');
     }
   }
@@ -25,7 +25,7 @@ button {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  z-index: 999; /* Untuk memastikan tombol di atas elemen lain */
+  z-index: 999; 
 }
 
 button:hover {
