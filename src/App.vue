@@ -80,11 +80,4 @@ img {
 
   
 }
-.bg-img {
-  background-image: url('C:\Users\MSI CYBORG\Documents\Praktikum PBK\portofolio\public\foto.png');
-  background-size: cover;
-  background-position: left;
-  height: 100vh;
-}
-
 </style>
