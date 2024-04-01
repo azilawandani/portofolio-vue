@@ -57,12 +57,7 @@ export default {
 .biodata p {
   margin-bottom: 10px;
 }
-.bg-img {
-  background-image: url('C:\Users\MSI CYBORG\Documents\Praktikum PBK\portofolio\public\foto.png');
-  background-size: cover;
-  background-position: center;
-  height: 100vh;
-}
+
 
 
 </style>
